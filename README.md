@@ -48,4 +48,4 @@ Fig.6
 e. Prepare a report on the completion of all points of this exercise
 
 Each report should be provided with the following heading and include:
-a detailed description of all completed points of the exercise, along with your own conclusions regarding the work performed
+a detailed description of all completed points of the exercise, along with your own conclusions regarding the work performed.
